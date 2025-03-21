@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../../Python"
+		},
+		{
+			"path": "C:/Users/amend/OneDrive/Documentos/MeusTrabalhos"
+		}
+	],
+	"settings": {},
+	"extensions": {
+		"recommendations": [
+			"ms-ceintl.vscode-language-pack-pt-br"
+		]
+	}
+}
